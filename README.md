@@ -1,24 +1,18 @@
 <!-- header start -->
 <!-- views of my profile -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yosuad&label=Profile%20views&color=0e75b6&style=flat" alt="yosuad" /> </p>
 
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=yosuad&label=Profile%20views&color=0e75b6&style=flat" alt="yosuad" /> </p>
 
-<p style="margin-top: 35px;" align="center">
+  <p style="margin-top: 35px;" align="center">
     <font size="5" text-align:center>Hello 👋, World</font>
-    <font style="margin-left: 35px;" margin-top= "350000px" size="5">My name is</h2>
-    <div style="margin-top: -35px;"> 
-   </p>
-   
-<a href="https://github.com/yosuad">![Jose Luis Baena Garzón](/images/header_nombre.png)</a> 
+    <font style="margin-left: 35px;" margin-top= "350000px" size="5">My name is</h2>        
+  </p>  
 
-<div style="margin-top: -40px;" align="center">
-  <h3>I am a passionate developer, I like php too much and I am open to other languages</h3>
-  <br>
-<div>
- <!-- end of header -->
+  <p align="center"><img src="https://raw.githubusercontent.com/yosuad/yosuad/master/images/header_nombre.png"></p>
 
-<!-- Social icons section -->
-<p style="margin-top: 5px;" align="center">
+
+  <!-- home social icons -->
+<p style="margin-top: -20px;" align="center">
   <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
@@ -31,15 +25,23 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-<br>
-<!-- Social icons section fin -->
+<!-- Send social icons -->
+
+
+  <div style="margin-top: -5px;" align="center">
+    <h3>I am a passionate developer, I like php too much and I am open to other languages</h3>
+  <div>
+ <!-- end of header -->
+
+
+
 
 ***
 <br>
 
 <div align="left" size="2">
    <font size="4">
-    - 🔭 I’m currently working on **java**
+    - 🔭 I am currently working on and expanding my knowledge in JavaScript
     <br>
     - 🌱 I’m currently learning **advanced docker**
     <br>
@@ -57,13 +59,29 @@
     - 📄 Know about my experiences [www.ensayando2.com](www.ensayando2.com)
    </font>
 </div>
-
 <br>
 
+<!-- start trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosuad&column=7" alt="yosuad" />
+  </a> 
+</p>
+<!-- end trophies -->
 
-<!-- inicio trofeos -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosuad" alt="yosuad" /></a> </p>
-<!-- inicio trofeos -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
