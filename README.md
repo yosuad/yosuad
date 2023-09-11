@@ -41,9 +41,9 @@
 
 <div align="left" size="2">
    <font size="4">
-    - 🔭 I am currently working on and expanding my knowledge in JavaScript
+    - 🔭 I am currently working on my github profile
     <br>
-    - 🌱 I’m currently learning **advanced docker**
+    - 🌱 I am currently learning JavaScript
     <br>
     - 👯 I’m looking to collaborate on **I am willing to learn in community**
     <br>
