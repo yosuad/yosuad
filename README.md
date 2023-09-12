@@ -41,13 +41,13 @@
 
 <div align="left" size="2">
    <font size="4">
-    - 🔭 I am currently working on my github profile
+    - 🔭 I am currently working on my github profile.
     <br>
-    - 🌱 I am currently learning JavaScript
+    - 🌱 I am currently learning JavaScript.
     <br>
-    - 👯 I’m looking to collaborate on **I am willing to learn in community**
+    - 👯 I adopt the Ubuntu ideology, which means that I am always willing to collaborate and grow in community.
     <br>
-    - 🤝 I’m looking for help with **Help is always welcome and more when it comes to learning**
+    - 🤝 I appreciate the offer of help in JavaScript, as I have a strong desire to expand and enrich my knowledge in this field.
     <br>
     - 👨‍💻 All of my projects are available at [www.ensayando.com](www.ensayando.com)
     <br>
