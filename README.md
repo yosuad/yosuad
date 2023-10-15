@@ -49,7 +49,7 @@
     <br>
     - 🤝 I appreciate the offer of help in JavaScript, as I have a strong desire to expand and enrich my knowledge in this field.
     <br>
-    - 👨‍💻 All of my projects are available at [www.ensayando.com](www.ensayando.com)
+    - 👨‍💻 All of my projects are available at <a href="https://github.com/yosuad?tab=repositories">github</a>
     <br>
     - 💬 Ask me about **ubuntu or repositories can I try to do the build process**
     >>>>>>> e0241f8 (inicio)
